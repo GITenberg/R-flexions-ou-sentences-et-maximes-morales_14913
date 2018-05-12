@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5749
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14913#R-flexions-ou-sentences-et-maximes-morales
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-02-05'
 gutenberg_type: Text
